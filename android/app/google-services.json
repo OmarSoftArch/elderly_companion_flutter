@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "255933498392",
+    "project_id": "rafeeq-f408a",
+    "storage_bucket": "rafeeq-f408a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255933498392:android:724940a419011834772f6d",
+        "android_client_info": {
+          "package_name": "com.example.elderly_companion_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrOdVCB4NZwYFVg3lpqqoXEjEm4ma7jdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
