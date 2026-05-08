@@ -22,7 +22,3 @@ flutter run
 التطبيق يستخدم بيانات ثابتة وصور شبكة مثل النموذج الأصلي.
 
 
-
-graduation project basic report : 
-E:\Graduation Projects\companion_for_the_elderly\Graduation_Project_Template.pdf
-
